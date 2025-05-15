@@ -36,7 +36,7 @@ function App() {
       </div>
 
       <footer className="mt-10 text-gray-500 text-sm">
-        © 2025 FuelUp | gas. delivered.
+        © 2025 FuelUp | GAS. DELIVERED.
       </footer>
     </div>
   );
