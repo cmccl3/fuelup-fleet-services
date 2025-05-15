@@ -5,10 +5,10 @@ import ServiceCard from './components/ServiceCard';
 
 const services = [
   { title: 'Oil Changes', description: 'Regular & synthetic oil changes at your fleet location.' },
-  { title: 'Fluids Top-Off', description: 'Windshield washer, coolant, brake fluid, etc.' },
+  { title: 'Fluids Top-Off', description: 'Windshield washer, coolant, etc.' },
   { title: 'Tire Pressure Check', description: 'Optimize tire life & fuel efficiency.' },
   { title: 'Battery Health Check', description: 'Test & report battery performance.' },
-  { title: 'Emergency Refueling', description: 'Fast-response fuel delivery.' },
+  { title: 'Battery Replacement', description: 'Replace your battery to run like new.' },
   { title: 'Custom Requests', description: 'Let us know what you need!' }
 ];
 
