@@ -16,7 +16,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-50 flex flex-col items-center">
       <header className="w-full py-8 flex flex-col items-center">
-        <img src={`${process.env.PUBLIC_URL}/fuelup-logo.png`} alt="FuelUp Logo" className="h-20 mb-4" />
+        <img src={`${process.env.PUBLIC_URL}/fuelup-logo.png`} alt="FuelUp Logo" className="w-64 md:w-80 lg:w-96 mb-4" />
         <h1 className="text-3xl font-bold text-blue-600">Fleet Services Delivered</h1>
         <p className="text-gray-600 mt-2">Simplify fleet maintenance with on-site add-ons.</p>
       </header>
